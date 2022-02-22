@@ -143,6 +143,7 @@ p {
 #header .nav-list ul li:hover a {
 	color: white;
 }
+/*
 #header .hamburger {
 	height: 60px;
 	width: 60px;
@@ -197,7 +198,8 @@ p {
 #header .hamburger.active .bar::after {
 	top: 0;
 }
-/* End Header section */
+*/
+/* End Header section */ 
 
 /* Hero Section */
 #hero {
